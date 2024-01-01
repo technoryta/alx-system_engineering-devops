@@ -1,5 +1,0 @@
-#!/usr/bin/env bash
-# Displays all PID
-# shellcheck disable=SC2009
-
-ps aufx | grep bash
