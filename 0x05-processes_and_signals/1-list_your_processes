@@ -1,0 +1,4 @@
+#!/usr/bin/env bash
+# Displays all PID
+
+ps aufx
