@@ -1,0 +1,4 @@
+#!/usr/bin/env bash
+# Scripts displays listening sockets with the PID and name of porgram
+
+netstat -lp
